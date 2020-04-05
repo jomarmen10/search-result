@@ -1,4 +1,4 @@
 # Search Result
 
 
-Preview: ![preview](https://imgur.com/kHzd4qY)
+Preview: ![preview](https://i.imgur.com/kHzd4qY.png)
