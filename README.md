@@ -3,7 +3,7 @@
 Preview: ![preview](https://i.imgur.com/kHzd4qY.png)
 
 ## Description
-* A simple webpage application where you can search for your favorite Movies.
+* A simple responsive webpage application where you can search for your favorite movies.
 
 ## Technologies Used:
 * React
