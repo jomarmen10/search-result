@@ -14,4 +14,4 @@ Preview: ![preview](https://i.imgur.com/kHzd4qY.png)
 * Clone the repo
 * After cloning the repo `cd search-result`
 * Make sure that to install all packages need to run the app `npm install`
-* Enjoy searching for your favorite Movies `npm start`
+* Enjoy searching for your favorite Movies `npm start` and go to `http://localhost:3000` 
