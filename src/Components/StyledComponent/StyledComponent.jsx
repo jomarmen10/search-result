@@ -4,6 +4,7 @@ import styled from "styled-components";
 export const StyledMovie = styled.div`
     width: 1160px;
     margin: 0 auto;
+
     img {
         width: 250px;
         height: 375px;
@@ -69,6 +70,7 @@ export const StyledNavbar = styled.div`
         border: 0;
         padding: 0;
     }
+
     input:focus {
         outline: none;
     }
@@ -122,6 +124,7 @@ export const StyledFilter = styled.div`
         padding: 0;
         border: 0;
     }
+
     #exit i {
         font-size: 15px;
     }
