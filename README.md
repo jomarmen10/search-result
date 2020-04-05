@@ -11,3 +11,8 @@ Preview: ![preview](https://i.imgur.com/kHzd4qY.png)
 * The Movie Database API
 * Styled Component
 
+## Run Application:
+* Clone the repo
+* `cd search-result`
+* `npm install`
+* `npm start`
