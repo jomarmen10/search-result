@@ -2,6 +2,9 @@
 
 Preview: ![preview](https://i.imgur.com/kHzd4qY.png)
 
+# Demo
+http://search-result.s3-website-us-west-1.amazonaws.com/
+
 ## Description
 * A simple responsive webpage application where you can search for your favorite movies.
 
